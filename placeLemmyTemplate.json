@@ -1,0 +1,15 @@
+{
+  "contact": "ChaoticNeutralCzech on Discord or feddit.de",
+  "templates": [
+    {
+      "name": "Join Lemmy.ml (I know it's not the full fediverse but we don't have space",
+      "sources": [
+        "https://i.imgur.com/X4byXL9.png"
+      ],
+      "x": 585,
+      "y": 728
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
