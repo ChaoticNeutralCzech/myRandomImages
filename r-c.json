@@ -1,0 +1,15 @@
+{
+  "contact": "ChaoticNeutralCzech on Discord or feddit.de",
+  "templates": [
+    {
+      "name": "Change [reddit.com/]r/ich_iel to [feddit.de/]c/ich_iel!",
+      "sources": [
+        "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/r-c_t.png"
+      ],
+      "x": 1,
+      "y": 92
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
