@@ -1,0 +1,15 @@
+{
+  "contact": "ChaoticNeutralCzech on Reddit, Discord or feddit.de",
+  "templates": [
+    {
+      "name": "Nimona (comic)",
+      "sources": [
+        "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/nimona1xtrans.png"
+      ],
+      "x": /*INSERT X-COORDINATE HERE, WHERE TOP LEFT IS 0*/,
+      "y": /*INSERT Y-COORDINATE HERE, WHERE TOP LEFT IS 0*/
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
