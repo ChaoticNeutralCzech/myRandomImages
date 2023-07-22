@@ -2,19 +2,14 @@
   "contact": "ChaoticNeutralCzech on Discord or feddit.de",
   "templates": [
     {
-      "name": "Join Lemmy.ml (I know it's not the full fediverse but we don't have space)",
+      "name": "Change [reddit.com/]r/ich_iel to [feddit.de/]c/ich_iel!",
       "sources": [
-        "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/lemmyba2n.png"
+        "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/r-c_t.png"
       ],
-      "x": 585,
-      "y": 728
+      "x": 1,
+      "y": 92
     }
   ],
   "whitelist": [],
-  "blacklist": [
-    {
-      "name": "Join Lemmy",
-      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/join_lemmy_template.json"
-    }
-  ]
+  "blacklist": []
 }
