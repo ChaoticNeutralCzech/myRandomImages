@@ -1,0 +1,15 @@
+{
+  "contact": "ChaoticNeutralCzech na Redditu, Discordu nebo feddit.de",
+  "templates": [
+    {
+      "name": "Horalky 24 barev antialiased",
+      "sources": [
+        "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/horalky.png"
+      ],
+      "x": 440,
+      "y": 849
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
