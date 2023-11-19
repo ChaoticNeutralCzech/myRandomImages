@@ -1,6 +1,6 @@
 Source: https://web.archive.org/web/20201203063117/http://sport-jedlova.cz/fotogalerie-leto2.asp?rok=2014 with CSS modification `div {display:block !important}`
 
-## ![](http://sport-jedlova.cz/gfx/nadpis_ik.gif) Fotografie - LÉTO
+> ## ![](http://sport-jedlova.cz/gfx/nadpis_ik.gif) Fotografie - LÉTO
 > 
 > [Galerie](http://sport-jedlova.cz/#) > **2014**
 >   
